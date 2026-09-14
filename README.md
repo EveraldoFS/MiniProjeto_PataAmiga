@@ -176,3 +176,17 @@ A Pata Amiga é uma rede catarinense de pet shops com 32 lojas. O projeto constr
 Execute os scripts na ordem: 01, 02, 03, 04, 05, 06, 07.
 
 ## 📁 Estrutura do Repositório
+
+```text
+MiniProjeto_PataAmiga/
+├── README.md
+├── diagrama.png
+└── sql/
+    ├── 01-carga-staging.sql
+    ├── 02-dimensoes-prontas.sql
+    ├── 03-dim_categoria.sql
+    ├── 04-dim_praca_bridge.sql
+    ├── 05-fato_pedido.sql
+    ├── 06-conferencia.sql
+    └── 07-perguntas_negocio.sql
+```
