@@ -189,4 +189,12 @@ MiniProjeto_PataAmiga/
     ├── 05-fato_pedido.sql
     ├── 06-conferencia.sql
     └── 07-perguntas_negocio.sql
-```
+``` 
+## 📹 Vídeo
+
+[Link do vídeo no Google Drive](https://drive.google.com/file/d/1i87dlfLslYckgB02zbT7mopvzrUgscCE/view?usp=sharing)
+
+---
+
+**Aluno:** Everaldo F. Silva  
+**Data:** 14/09/2026
